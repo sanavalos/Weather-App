@@ -14,4 +14,7 @@ This app was coded in `Javascript` and developed with:
 - [Styled-components](https://styled-components.com)
 - [Axios](https://axios-http.com)
 
+### Deploy
+Vercel: https://weather-app-sanavalos.vercel.app
+
 _made by sanavalos_
